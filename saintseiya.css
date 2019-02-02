@@ -1,0 +1,31 @@
+/* This is a CSS comment.*/
+/*CSS bloco 1 Titulo*/
+.container_indice{font-size: 80px;margin-top: 30px;margin-bottom: 50px;margin-left: 130px;margin-right: 170px;color:white;}
+/*CSS bloco 2 saga santuario*/
+.saga_santuario {display:flex;color:white;}
+.descricao_saga_santuario{margin-left:50px;margin-top: 30px;margin-bottom: 30px;margin-right: 30px;}
+.img_santuario{margin-left: 30px;}
+/*css bloco 3 saga asgard*/
+.saga_asgard{display: flex;margin-top: 50px;color:white;}
+.descricao_saga_asgard{margin-left: 50px;margin-top: 30px;margin-right: 300px;margin-bottom: 30px;}
+.img_asgard{margin-left: 30px;}
+/*css bloco 4 saga posseidon*/
+.saga_posseidon{display:flex;margin-top: 50px;color:white;}
+.descricao_saga_posseidon{margin-left: 50px;margin-bottom: 30px;margin-right: 300px;margin-top: 30px;}
+.img_posseidon{margin-left: 30px;}
+/*css bloco 5 saga hades santuario */
+.saga_hades_santuario{display:flex;margin-top: 50px;color:white;}
+.descricao_saga_hades_santuario{margin-left: 50px;margin-bottom: 30px;margin-top: 30px;margin-right: 350px;}
+.img_hades_santuario{margin-left: 30px;}
+/*css bloco 6 saga hades inferno*/
+.saga_hades_inferno{display:flex;margin-top: 50px;color:white;}
+.descricao_saga_hades_inferno{margin-left: 50px;margin-top: 30px;margin-bottom: 30px;margin-right: 350px;}
+.img_hades_inferno{margin-left: 30px;}
+/*css bloco 7 saga hades elisios*/
+.saga_hades_elisios{display:flex;margin-top: 50px;color:white;}
+.descricao_saga_hades_elisios{margin-left: 50px;margin-bottom: 30px;margin-top: 30px;margin-right: 200px;}
+.img_hades_elisios{margin-left: 30px;}
+/*css bloco 8 alma de ouro*/
+.saga_alma_ouro{display:flex;margin-top: 50px;color:white;}
+.descricao_saga_alma_ouro{margin-left: 50px;margin-bottom: 30px;margin-top: 30px;margin-right: 80px;}
+.img_saga_alma_ouro{margin-left: 30px;margin-top: 100px;margin-bottom: 130px;}
